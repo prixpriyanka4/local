@@ -19,6 +19,7 @@ function App() {
       <h2>Zimbabwe National Cricket Team</h2>
       <h2>Sri Lanka National Cricket Team</h2>
       <h2>Singapore National Cricket Team</h2>
+      <h2>Canada National Cricket Team</h2>
     </div>
   );
 }
