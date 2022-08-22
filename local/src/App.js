@@ -9,6 +9,7 @@ function App() {
         <u>Cricket Teams</u>
       </h1>
       <h2>England Cricket Team</h2>
+      <h2>West Indies Cricket Team</h2>
     </div>
   );
 }
